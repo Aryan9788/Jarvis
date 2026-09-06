@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+jarvis.log
+jarvis_notes.txt
+jarvis_reminders.json
+jarvis_screenshot_*.png
+.DS_Store
