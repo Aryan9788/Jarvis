@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+PyAudio
+pyautogui
+
+Then install everything with:
+
+pip install -r requirements.txt
