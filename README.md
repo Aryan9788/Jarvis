@@ -319,26 +319,6 @@ You should use a Gmail App Password, not your normal Gmail password.
 
 ⸻
 
-📦 requirements.txt
-
-Create a file named:
-
-requirements.txt
-
-Add:
-
-pyttsx3
-SpeechRecognition
-wikipedia
-PyAudio
-pyautogui
-
-Then install everything with:
-
-pip install -r requirements.txt
-
-⸻
-
 🔒 Security
 
 JARVIS follows some basic security practices:
